@@ -5,6 +5,6 @@ world~~~
 busan is good.
 
 
-diff use
+diff use and edit
 
 diff commit name
